@@ -1,0 +1,42 @@
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.*;
+public class GUI implements ActionListener
+{
+    JFrame f; JLabel l; JButton b; JTextField t; Interpret ip;
+    public GUI()
+    {
+        f = new JFrame("Jeopardy");
+            f.setLayout(null);
+            f.setSize(600,600);
+        l = new JLabel("Console Output here.");
+            l.setPosition(0,0,600,400);
+        t = new JTextField();
+            t.setPosition(0,600,400,20);
+        b = new JButton("Enter");
+            b.setPosition(400,600,500,20);
+            b.addActionListener(this);
+        
+        f.add(l);
+        f.add(t);
+        f.add(b);
+        f.show();
+    }
+    
+    public void update(String s)
+    {
+        l.setText(s);
+    }
+    
+    public void update(String[] s)
+    {
+        String ss = "";
+        for(String sss : s)        
+            ss += (sss + "<br>");
+    }
+    
+    public void ActionListener(ActionEvent e)
+    {
+        ip.interpret(t.getText());
+    }
+}
