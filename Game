@@ -1,0 +1,14 @@
+import java.util.HashMap;
+import java.util.Scanner;
+public class Game
+{
+    Scanner sc; HashMap<Player, Integer> players;
+    public Game()
+    {
+        sc = new Scanner();
+        players = new HashMap<Player, Integer>();
+    }
+    
+    public void start()
+    {}
+}
