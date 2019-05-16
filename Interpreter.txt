@@ -1,7 +1,27 @@
 public class Interpreter
 {
+    private GUI gui;
+    public static void setGUI(GUI gui)
+    {this.gui = gui;}
+    
     public static void interpret(String s)
     {
+        String[] commands = s.split(".");
+        switch(commands[0])
+        {
+            case "g": g(commands); break;
+            case "p": p(commands); break;
+            default: gui.update("ohno");
+        }
+    }
     
+    public void g(String[] s)
+    {
+    
+    }
+    
+    public void p(String[] s)
+    {
+        
     }
 }
