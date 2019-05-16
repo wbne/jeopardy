@@ -21,6 +21,7 @@ public class GUI implements ActionListener
         f.add(t);
         f.add(b);
         f.show();
+        Interpreter.setGUI(this);
     }
     
     public void update(String s)
