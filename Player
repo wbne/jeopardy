@@ -1,0 +1,14 @@
+public class Player 
+{
+    private int points; private String name;
+    public Player(int p, String n)
+    {points = p; name = n;}
+    public Player(String n)
+    {super(n,0);}
+    public Player()
+    {super("potato boi",0);}
+    public void add(int a)
+    {points += a;}
+    public void subtract(int a)
+    {points -= a;}
+}
