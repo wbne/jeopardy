@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.awt.*;
 public class GUI implements ActionListener
 {
-    JFrame f; JLabel l; JButton b; JTextField t; Interpret ip;
+    JFrame f; JLabel l; JButton b; JTextField t; 
     public GUI()
     {
         f = new JFrame("Jeopardy");
@@ -37,6 +37,6 @@ public class GUI implements ActionListener
     
     public void ActionListener(ActionEvent e)
     {
-        ip.interpret(t.getText());
+        Interpreter.interpret(t.getText());
     }
 }
