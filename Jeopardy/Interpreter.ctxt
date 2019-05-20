@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Interpreter
+comment1.params=gui
+comment1.target=Interpreter(GUI)
+comment2.params=s
+comment2.target=void\ interpret(java.lang.String)
+comment3.params=s
+comment3.target=void\ g(java.lang.String[])
+comment4.params=s
+comment4.target=void\ p(java.lang.String[])
+comment5.params=s
+comment5.target=void\ c(java.lang.String[])
+numComments=6
