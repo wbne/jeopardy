@@ -1,0 +1,75 @@
+﻿100
+Polymerization is the process of what?
+The process of linking monomers 
+200
+Which groups are involved in a dehydration reaction?
+An Alcohol group and a Hydrogen
+300
+How does phosphorylation transfer energy between molecules?
+The energy between the phosphate and other molecule act as a source of energy which can be transferred.
+400
+What are the types of phosphorylation and what distinguishes them?
+Oxidative phosphorylation has its electrons and phosphate group from separate sources while substrate phosphorylation has its electrons and phosphate group from the same source.
+901
+What is a zwitterion and what is an example of one?
+A zwitterion is a molecule with both an acidic and basic group and an example are amino acids
+100
+Why does glucose, a simple sugar, dissolve in water?
+Because glucose is polar.
+200
+How many oxygen molecules are in a sucrose molecule (Glucose + Fructose)?
+11 oxygen atoms.
+300
+What primarily makes fructose different from glucose?
+Fructose forms a furanose ring (5-atom) while glucose forms a pyranose ring (6-atom)
+400 
+What makes cellulose much more resistant to human digestion than amylose?
+Because the glucose molecules in cellulose have a beta-1,4 bond
+700
+Why does Benedict’s Solution turns brown when it is exposed to monosaccharides? 
+Because the copper sulfate is being reduced by the monosaccharide into copper
+100
+What makes amino acids different from each other?
+R- group
+200
+The Urey-Miller experiment explained what about amino acids
+Origin / Creation of amino acids
+300
+Electrostatic attraction to form beta sheets or spirals is called the _______ structure
+Secondary structure
+400
+Why are the disulfide bridges made by cysteine important?
+Because it allows for tertiary and quaternary structures to be more stable.
+900
+What makes proline an odd amino acid?
+Instead of a traditional amide structure, proline’s basic side creates a cyclic structure with the R-group
+100
+What makes RNA different from DNA?
+Thymine vs Uracil AND Single stranded vs Double stranded
+200
+What directions do DNA and RNA polymerase “write” in?
+Both write from 5 to 3.
+300
+Why did cells evolve DNA when it costs more energy to create than RNA?
+DNA is a more stable molecule
+400
+What is the major distinguishing factor between purines and pyrimidines?
+Purines have two rings while pyrimidines have only one ring.
+500
+Which nucleotides bind to each other and how many hydrogen bonds do they make (DNA)?
+A-T with 3 bonds and C-G with 2 bonds
+100
+Lipids store _____ amounts of energy
+High
+200
+What’s the difference between an unsaturated fat and a saturated fat?
+Double bonding and different states at room temperature
+300
+The ____ (size) nature of lipids make them usually ____ to cross the cell membrane.
+Large; harder
+400
+What advantage would a hormone have if it was made from lipids?
+It allows those hormones to easily pass the phospholipid bilayer and enter the cell
+800
+If the lipids in a human body were to be used in aerobic respiration, what process would they enter in?
+Kreb’s Cycle as the lipids are turned into acetyl groups for acetyl-CoA.
